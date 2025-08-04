@@ -1,5 +1,5 @@
 A demonstration of a linear regression model to predict the prices of housing units with features.
 Uses a sequential neural network model to predict hosuing prices using features.
-Dataset contains 506 houses for model to train over 500 epochs
+Dataset contains 506 houses for model to train over 100 epochs
 Resulting model has 2.17 average mean absolute error
 mae over epochs and regression line plot are included with python file
