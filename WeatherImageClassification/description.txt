@@ -2,4 +2,4 @@ A demonstration of a sequential neural network to classify the weather in images
 Uses a sequential neural network to classify images under "cloudy", "rainy", "sunrise", and "sunshine"
 Dataset contains train, test, validation, and example data for model to train over 30 epochs with early stopping
 Resulting model has a 85-90% accuracy
-Dataset included with project file
+Dataset not included with project file, file too big
